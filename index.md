@@ -9,3 +9,4 @@
 
 ## 作业目录
 1. [homework1](homework1)
+2. [homework2](homework2)
